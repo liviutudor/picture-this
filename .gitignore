@@ -17,4 +17,5 @@ gradle-app.setting
 build
 
 */.DS_Store
+.idea/
 
